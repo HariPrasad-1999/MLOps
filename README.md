@@ -6,5 +6,5 @@ This Repo will cover E2E MLOps tools -
 * MLFlow - For model management
 * Airflow - Data pipelines
 * Kubernetes - Orchestration
+* Docker - Containerization
 * KubeFlow - Orchestration management
-  
