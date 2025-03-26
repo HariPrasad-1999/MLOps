@@ -1,17 +1,26 @@
+# Initialize the class chatbook
 class chatbook:
+    # __ini__() is one of the Special/Magic/Dunder methods - constructor
     def __init__(self):
+        self.__name = "Default User"   # Hidden attribute
         self.username = ""
         self.password = ""
         self.loggedin = False
-        self.menu()
+        # self.menu()
+
+    def get_name(self):
+        return self.__name
+
+    def set_name(self, value):
+        self.__name = value
 
     def menu(self):
-        user_input = input(""" Welcome to Chatbook \n How would like to proceed?\n 
-                            1. Press 1 to SignUp
-                            2. Press 2 to SignIn
-                            3. Press 3 to Write a Post
-                            4. Press 4 to message a friend
-                            5. Press any other key to exit\n""")
+        user_input = input(""" \n Welcome to Chatbook \n How would like to proceed?\n
+                        1. Press 1 to SignUp
+                        2. Press 2 to SignIn
+                        3. Press 3 to Write a Post
+                        4. Press 4 to message a friend
+                        5. Press any other key to exit\n  -:> """)
         
         if user_input == "1":
             self.signup()
@@ -47,7 +56,6 @@ class chatbook:
         print("\n")
         self.menu()
 
-
     def my_post(self):
         if self.loggedin == True:
             txt = input("Enter your post message here -:> ")
@@ -56,7 +64,6 @@ class chatbook:
             print("You need to signin first to post something...")
         print("\n")
         self.menu()
-
     
     def sendmsg(self):
         if self.loggedin == True:
@@ -67,6 +74,5 @@ class chatbook:
             print("You need to signin first to post something...")
         print("\n")
         self.menu()           
-                
-
+             
 obj = chatbook()
