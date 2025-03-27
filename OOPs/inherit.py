@@ -35,7 +35,7 @@ class Animal:
 # Derived Class    
 class Dog(Animal):   
     def __init__(self, breed): # New attributes -> Breed
-        # super().__init__() # Super keyword is used to inherit all methods from parent class.
+        super().__init__() # Super keyword is used to inherit all methods from parent class.
         self.breed = breed
     
     def speak1(self):
