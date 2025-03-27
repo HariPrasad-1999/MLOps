@@ -7,7 +7,12 @@ Chatbook is an OOPs project consisting of Class and Objects. There will be follo
 -> Static Method
 
 > Inheritance 
--> types -  1. Single 
+
+Only the Constructor, Non provate attributes & Non private methods are Inherited.
+-> Constructor overloading & Method overloading.
+-> Super set - can only be used inside class, cannot access variables/attributes , used inside child class
+-> types -  
+            1. Single 
             2. Multilevel
             3. Hierarchical
             4. Multiple 
