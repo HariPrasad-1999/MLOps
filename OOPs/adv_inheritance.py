@@ -113,7 +113,7 @@ d.greet()
 
 
 # Hybrid Inheritance 
-
+"""
 class Animal:
     def __init__(self, name):
         self.name = name
@@ -140,4 +140,4 @@ bat = Bat("Baddie bat")
 bat.sound()
 bat.feed()
 bat.fly()
-bat.nocturnal()
+bat.nocturnal()"""
