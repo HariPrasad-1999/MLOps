@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1744648751374
+current_stage: Deleted_Internal
+description: ''
+last_updated_timestamp: 1744648944710
+name: hpmodel1
+run_id: ba074669077049c497a31d5059d44c42
+run_link: ''
+source: file:///D:/Code/MLOps/Mlflow/mlruns/670085293036561037/ba074669077049c497a31d5059d44c42/artifacts/random_forest
+status: READY
+status_message: null
+storage_location: file:///D:/Code/MLOps/Mlflow/mlruns/670085293036561037/ba074669077049c497a31d5059d44c42/artifacts/random_forest
+user_id: null
+version: 2

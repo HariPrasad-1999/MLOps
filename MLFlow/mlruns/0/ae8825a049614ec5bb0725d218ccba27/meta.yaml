@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/0/ae8825a049614ec5bb0725d218ccba27/artifacts
+deleted_time: 1744648892587
 end_time: 1744613245238
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: ae8825a049614ec5bb0725d218ccba27
 run_name: bemused-wolf-201
 run_uuid: ae8825a049614ec5bb0725d218ccba27

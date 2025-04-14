@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/0/c70c922061024af693c70cb2ed96fdfc/artifacts
+deleted_time: 1744648892589
 end_time: 1744610272278
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: c70c922061024af693c70cb2ed96fdfc
 run_name: legendary-koi-942
 run_uuid: c70c922061024af693c70cb2ed96fdfc

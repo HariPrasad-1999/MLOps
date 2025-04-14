@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/0/eb0291c3dda94f9c8b90d8d2ade1bbac/artifacts
+deleted_time: 1744648892591
 end_time: 1744609931852
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: eb0291c3dda94f9c8b90d8d2ade1bbac
 run_name: dazzling-koi-819
 run_uuid: eb0291c3dda94f9c8b90d8d2ade1bbac
