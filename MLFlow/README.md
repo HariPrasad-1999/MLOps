@@ -1,8 +1,10 @@
 # MLFlow 
 
-### MLflow is an open-source platform to assist in handling the machine learning process. MLflow focuses on the full lifecycle for machine learning projects, ensuring that each phase is manageable, traceable, and reproducible. 
 
-For more information - [MLFlow GitHub](https://github.com/mlflow/mlflow/blob/master/README.md)
+MLflow is an open-source platform for managing the end-to-end machine learning lifecycle. Developed by Databricks, MLflow simplifies the process of tracking experiments, packaging code into reproducible runs, and sharing and deploying models. It’s designed to work seamlessly with popular machine learning frameworks like TensorFlow, PyTorch, scikit-learn, and [more](https://medium.com/@roshmitadey/mastering-machine-learning-model-lifecycle-with-mlflow-ff0e81c5963a). 
+
+
+For more information - [MLFlow GitHub](https://github.com/mlflow/mlflow/blob/master/README.md) & 
 
 
 
