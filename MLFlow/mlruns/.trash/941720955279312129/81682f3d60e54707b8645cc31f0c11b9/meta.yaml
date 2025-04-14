@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/941720955279312129/81682f3d60e54707b8645cc31f0c11b9/artifacts
+deleted_time: 1744609102625
+end_time: 1744608983460
+entry_point_name: ''
+experiment_id: '941720955279312129'
+lifecycle_stage: deleted
+run_id: 81682f3d60e54707b8645cc31f0c11b9
+run_name: legendary-gull-820
+run_uuid: 81682f3d60e54707b8645cc31f0c11b9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744608983349
+status: 3
+tags: []
+user_id: Hari

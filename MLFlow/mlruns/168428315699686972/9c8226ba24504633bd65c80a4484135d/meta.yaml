@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/168428315699686972/9c8226ba24504633bd65c80a4484135d/artifacts
+deleted_time: 1744616516537
+end_time: 1744613335231
+entry_point_name: ''
+experiment_id: '168428315699686972'
+lifecycle_stage: deleted
+run_id: 9c8226ba24504633bd65c80a4484135d
+run_name: youthful-duck-874
+run_uuid: 9c8226ba24504633bd65c80a4484135d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744613334677
+status: 3
+tags: []
+user_id: Hari

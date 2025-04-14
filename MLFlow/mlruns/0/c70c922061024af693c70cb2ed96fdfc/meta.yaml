@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/c70c922061024af693c70cb2ed96fdfc/artifacts
+end_time: 1744610272278
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c70c922061024af693c70cb2ed96fdfc
+run_name: legendary-koi-942
+run_uuid: c70c922061024af693c70cb2ed96fdfc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744610268965
+status: 3
+tags: []
+user_id: Hari
